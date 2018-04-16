@@ -1,0 +1,13 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css");
+
+.vis-item.red {
+  color: white;
+  background-color: red;
+  border-color: darkred;
+}
+
+.vis-item.green {
+    color: white;
+    background-color: green;
+    border-color: darkgreen;
+  }
